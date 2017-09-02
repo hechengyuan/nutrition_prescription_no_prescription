@@ -1,0 +1,40 @@
+{
+    "author": "hechengyuan <1@showidea.cn>",
+    "description": "Nutrition is a way of life, weight loss has never been particularly easy.",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "About Author": "loading"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["-sharing","-livereload","-search","-fontsettings","theme-comscore"],
+    "pluginsConfig": {
+       "theme-default": {
+           "showLevel": true
+       }
+     },
+    "title": "Lose weight not easy",
+    "variables": {}
+}
