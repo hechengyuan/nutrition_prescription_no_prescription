@@ -27,3 +27,4 @@
 7. Hermann Brenner, Colorectal cancer, The Lancet, 2014 April, Volume 383, No. 9927, p1490–1502
 8. Esposito K, Chiodini P, et al. Which diet for prevention of type 2 diabetes? A meta-analysis of prospective studies. Endocrine. 2014 Sep;47(1):107-16.
 9. Dennis T，Weight Loss, Exercise, or Both and Physical Function in Obese Older Adults N Engl J Med 2011; 364:1218-1229
+10. Isabel Garcia-Perez, Joram M Posma, et al. Objective assessment of dietary patterns by use of metabolic phenotyping: a randomised, controlled, crossover trial. The Lancet Diabetes & Endocrinology, 2017; DOI: 10.1016/S2213-8587(16)30419-3
